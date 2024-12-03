@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @13AsadHayat
-- 👀 I’m interested in Operations Research and Optimization
+- 👀 I’m interested in Chemical Engineering, Operations Research and Optimization
 - 🌱 I’m currently learning Engineering Management
 - 💞️ I’m looking to collaborate on Supply Chain Management 
 
